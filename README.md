@@ -101,7 +101,7 @@
     </div>
     <div class="app-card">
         <div class="icon">💻</div>
-        <h3>Десктопное приложение</h3>
+        <h3>Desktop приложение</h3>
         <p>Windows — EXE</p>
         <p>Десктопное приложение для записи в студию и проверки статуса заявок. Не требует установки Python.</p>
         <a href="https://drive.google.com/uc?export=download&id=ВАШ_ID_EXE" class="btn" download>
