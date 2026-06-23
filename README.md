@@ -23,12 +23,6 @@
             padding: 40px;
             box-shadow: 0 20px 60px rgba(0,0,0,0.1);
         }
-        h1 {
-            font-size: 36px;
-            color: #6A3D8A;
-            text-align: center;
-            margin-bottom: 30px;
-        }
         .apps {
             display: grid;
             grid-template-columns: 1fr 1fr;
@@ -72,30 +66,29 @@
         @media (max-width: 600px) {
             .apps { grid-template-columns: 1fr; }
             .container { padding: 20px; }
-            h1 { font-size: 28px; }
         }
     </style>
 </head>
 <body>
     <div class="container">
-        <h1>🎙️ Студия звукозаписи</h1>
-
         <div class="apps">
+            <!-- APK -->
             <div class="app-card">
                 <div class="icon">📱</div>
                 <h3>Мобильное приложение</h3>
                 <p>Android — APK</p>
-                <p>Мобильное приложение для записи в студию, выбора даты/времени и проверки статуса заявок. Версия 1.0</p>
-                <a href="https://drive.google.com/uc?export=download&id=ВАШ_ID_APK" class="btn" download>
+                <p>Мобильное приложение для записи в студию,<br>выбора даты/времени и проверки статуса заявок.<br>Версия 1.0</p>
+                <a href="https://drive.google.com/uc?export=download&id=1VB1HTp_Nz2GNy-vQKbgLRiscAA5NC6CO" class="btn" download>
                     ⬇️ Скачать APK
                 </a>
             </div>
+            <!-- EXE -->
             <div class="app-card">
                 <div class="icon">💻</div>
                 <h3>Desktop приложение</h3>
                 <p>Windows — EXE</p>
-                <p>Десктопное приложение для записи в студию и проверки статуса заявок. Не требует установки Python.</p>
-                <a href="https://drive.google.com/uc?export=download&id=ВАШ_ID_EXE" class="btn" download>
+                <p>Десктопное приложение для записи в студию<br>и проверки статуса заявок.<br>Не требует установки Python.</p>
+                <a href="https://drive.google.com/uc?export=download&id=1m-goCT8kp5Jk9E2Q1eksxbOaStY_qs0Z" class="btn" download>
                     ⬇️ Скачать EXE
                 </a>
             </div>
