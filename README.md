@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ЗвукГрад — Студия звукозаписи</title>
+    <title>🎙️Студия звукозаписи</title>
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
         body {
@@ -28,18 +28,6 @@
             font-size: 36px;
             color: #6A3D8A;
             text-align: center;
-            margin-bottom: 8px;
-        }
-        .subtitle {
-            text-align: center;
-            color: #666;
-            font-size: 18px;
-            margin-bottom: 4px;
-        }
-        .subtitle2 {
-            text-align: center;
-            color: #888;
-            font-size: 15px;
             margin-bottom: 30px;
         }
         .apps {
@@ -100,9 +88,7 @@
 </head>
 <body>
     <div class="container">
-        <h1>🎙️ ЗвукГрад</h1>
-        <p class="subtitle">Профессиональная студия звукозаписи в Кемерово</p>
-        <p class="subtitle2">Запись песен, сведение, мастеринг, озвучка и создание музыки любой сложности</p>
+        <h1>🎙️ Студия звукозаписи</h1>
 
         <div class="apps">
             <div class="app-card">
