@@ -95,40 +95,18 @@
                 <h3>Мобильное приложение</h3>
                 <p>Android — APK</p>
                 <p>Мобильное приложение для записи в студию, выбора даты/времени и проверки статуса заявок. Версия 1.0</p>
-                <a href="#" class="btn">⬇️ Скачать APK</a>
-            </div>
-            <div class="app-card">
-                <div class="icon">💻</div>
-                <h3>Desktop приложение</h3>
-                <p>Windows — EXE</p>
-                <p>Десктопное приложение для записи в студию и проверки статуса заявок. Не требует установки Python.</p>
-                <a href="#" class="btn">⬇️ Скачать EXE</a>
-            </div>
-        </div>
-
-        <div class="info">
-            <h3>📋 О проекте</h3>
-            <ul>
-                <li>✅ Отправка заявок на услуги</li>
-                <li>✅ Выбор доступных даты и времени</li>
-                <li>✅ Проверка статуса заявки по телефону</li>
-                <li>✅ Отмена записи</li>
-            </ul>
-        </div>
-
-        <div class="info">
-            <h3>📞 Контакты</h3>
-            <ul>
-                <li>📍 г. Кемерово, проспект Ленина, 120</li>
-                <li>📞 +7 (999) 123-45-67</li>
-                <li>✉️ studio@example.com</li>
-                <li>⏰ ПН-ВС: 10:00 — 22:00</li>
-            </ul>
-        </div>
-
-        <div class="footer">
-            © 2026 — Якимюк Карина Руслановна, ИС-151
-        </div>
+        <a href="https://drive.google.com/uc?export=download&id=ВАШ_ID_APK" class="btn" download>
+            ⬇️ Скачать APK
+        </a>
+    </div>
+    <div class="app-card">
+        <div class="icon">💻</div>
+        <h3>Десктопное приложение</h3>
+        <p>Windows — EXE</p>
+        <p>Десктопное приложение для записи в студию и проверки статуса заявок. Не требует установки Python.</p>
+        <a href="https://drive.google.com/uc?export=download&id=ВАШ_ID_EXE" class="btn" download>
+            ⬇️ Скачать EXE
+        </a>
     </div>
 </body>
 </html>
