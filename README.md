@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
@@ -103,7 +102,7 @@
         </div>
 
         <div class="footer">
-            © 2026 — Якимюк Карина Руслановна, ИС-151
+            © 2026 — Авторский лендинг, Якимюк Карина Руслановна, ИС-151
         </div>
     </div>
 </body>
